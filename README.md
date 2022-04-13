@@ -20,7 +20,10 @@
 ## [4월 13일]
 
 - 메인/번역 페이지 디자인, 카메라를 이용한 번역 화면 디자인
+![smartrip - 홈 - 번역](https://user-images.githubusercontent.com/79886521/163122266-9800207f-65e8-4cee-a87c-bb276f4af0ff.png)
+![smartrip - 카메라](https://user-images.githubusercontent.com/79886521/163122462-1b88cf50-ec5b-4bae-845f-e931aa23ac8f.png)
 
+- 이번주내로 날씨 화면 디자인 예정
 
 
 ## [4월 6일]
